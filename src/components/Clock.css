@@ -1,0 +1,10 @@
+.Clock {
+  position: absolute;
+  top: calc(50% - 48px);
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.Clock h1 {
+  font-size: 80px;
+}
